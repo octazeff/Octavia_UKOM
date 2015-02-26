@@ -8,7 +8,7 @@ https://www.blogger.com/home?pli=1
 
 Sinopsis Aplikasi
 -----------------
-	Saat ini, masih ada anak-anak di Negara Kesatuan Republik Indonesia masih belum mengenal tentang Presiden dan Wakil Presiden terdahulu, 
+	Saat ini, masih ada anak-anak di Negara Kesatuan Republik Indonesia masih belum mengenal tentang Presiden dan Wakil Presiden terdahulu..
 dikarenakan kurang terkenalnya Presiden dan Wakil Presiden yang terdahulu di kalangan anak-anak.
  	Maka dari itu, penyelesaian dalam masalah ini adalah dibuatnya aplikasi pada android menggunakan eclipse untuk pengenalan presiden dan wakil presiden NKRI, 
 yang berfungsi untuk membantu proses belajar anak-anak dalam mengenal presiden dan wakil presiden NKRI.  
@@ -37,6 +37,9 @@ Kegiatan Aplikasi
 Kredit 
 -----------------
 Nama		: 	Octavia
+
 Email		: 	oktaviazaffer@gmail.com
+
 Github		:	octazeff
+
 Absen		:	21
