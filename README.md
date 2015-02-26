@@ -4,37 +4,32 @@ P.Vice (President and Vice President)
 Version 1.0.1 - thursday 26 February 2015
 
 by OCTAVIA <br>
-<http://zulsyikanw.blogspot.com/>
+https://www.blogger.com/home?pli=1
 
 Sinopsis Aplikasi
 -----------------
-Aplikasi ini adalah aplikasi yang akan membantu dan memudahkan seseorang dalam mengenali penyakit dari gejala yang diderita. Aplikasi yang disertai dengan daftar obat baik obat herbal maupun obat sintetis ini, dapat juga membantu seseorang meredakan gejala penyakit yang dideritanya dengan beberapa tips kesehatan, serta akan memudahkan tindakan lebih lanjut karena penyakit sudah didiagnosa.
+	Saat ini, masih ada anak-anak di Negara Kesatuan Republik Indonesia masih belum mengenal tentang Presiden dan Wakil Presiden terdahulu, 
+dikarenakan kurang terkenalnya Presiden dan Wakil Presiden yang terdahulu di kalangan anak-anak.
+ 	Maka dari itu, penyelesaian dalam masalah ini adalah dibuatnya aplikasi pada android menggunakan eclipse untuk pengenalan presiden dan wakil presiden NKRI, 
+yang berfungsi untuk membantu proses belajar anak-anak dalam mengenal presiden dan wakil presiden NKRI.  
+Dengan menggunakan metode studi pustaka, perancangan aplikasi, 
+pembuatan kode program, proses debugging/memperbaiki kesalahan program, proses uji coba. 
+	Maka disimpulkan aplikasi ini sudah dapat membantu proses belajar anak-anak dalam mengenal mantan presiden dan wakil presiden.
 
-Dalam aplikasi ini user akan di berikan beberapa menu yaitu *“Konsultasi Kesehatan”*, *“Daftar Gejala Penyakit”*, *“Daftar Obat Herbal”*, *“Daftar Obat Sintetis”*, *“Tips Kesehatan”*, *“Pengolahan Data”*, dan *“Tentang Aplikasi”*.
-
-- *Konsultasi Kesehatan*, di menu ini, user dapat memilih gejala-gejala penyakit yang dideritanya, kemudian pasien akan diberikan referensi obat herbal dan obat sintetis berdasarkan prakiraan penyakit yang dideritanya.
-
-- *Daftar Gejala*, di menu ini, user dapat melihat gejala-gejala penyakit dan prakiraan penyakit.
-Daftar Obat Herbal, di menu ini, user dapat melihat macam-macam obat herbal yang berkhasiat untuk pengobatan penyakitnya.
-
-- *Daftar Obat Sintetis*, di menu ini, user dapat melihat macam-macam obat sintetis yang berkhasiat untuk pengobatan penyakitnya.
-
-- *Tips Kesehatan*, di menu ini user dapat melihat berbagai tips kesehatan yang berguna untuk mengurangi gejala penyakit yang diderita dan mencegah gejala tersebut timbul kembali.
-Pengolahan Data, di menu ini administrator dapat mengakses akun dan melakukan CRUD data.
-Tentang aplikasi, di menu ini user dapat melihat informasi tentang aplikasi HeCo (Your Health Companion)
 
 Manfaat Aplikasi
 ----------------
-- Membantu user mengenali penyakit melalui gejala yang diderita
-- Memberi referensi obat herbal dan obat sintetis
-- Menambah pengetahuan user tentang gejala penyakit dan obat-obatan.
+1.	Dapat mengetahui biografi presiden dan wakilnya dari periode 1 sampai 11
+2.	Memudahkan User terutama para siswa untuk menambah pengetahuan tentang pembelajaran sejarah
+3.	Mengetahui kehidupan para mantan pemimpin negara
+4.	Membuat para siswa mudah dalam mendapatkan info tentang mantan presiden dan wakil presiden
+
 
 Pengguna Aplikasi
 -----------------
-- Administrator
+- Siswa SMA,SMK,SMP,SD
 - Pengguna Umum
 
 Kegiatan Aplikasi
 -----------------
-- Administrator. Melakukan CRUD data
-- Pengguna Umum. Melakukan Konsultasi, melihat informasi Daftar *"Gejala Penyakit"*, *"Daftar Obat Herbal"*, *"Daftar Obat Sintetis"*, *"Tips Kesehatan"*, dan *"Tentang Aplikasi"*
+- Pengguna Umum/Siswa Melihat informasi daftar biografi *"Penjelasan presdien dan wakil presiden"*, *"Biografi presiden dan wakil dari periode 1-11"*, *"Profil tentang Aplikasi"*
