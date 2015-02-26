@@ -1,0 +1,39 @@
+package com.example.presdanwapres;
+
+import android.media.MediaPlayer;
+import android.os.Bundle;
+import android.view.KeyEvent;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.ImageView;
+import android.app.Activity;
+
+
+public class Pres_dan_Wapres extends Activity {
+	MediaPlayer  		mp ;
+	int suara=R.raw.gusdur; 
+	@Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.pres_dan_wapres);
+       
+        ImageView b =(ImageView) findViewById(R.id.btttg);
+		b.setOnClickListener(new OnClickListener() {
+		public void onClick(View v) {
+			  mp = MediaPlayer.create(Pres_dan_Wapres.this,suara);
+			  if(!mp.isPlaying()){
+				  mp.start();
+			  		}
+			}});  
+		
+}
+	public boolean onKeyDown(int keyCode, KeyEvent event) {
+		if (keyCode == KeyEvent.KEYCODE_BACK) {
+			try{mp.stop();}
+			catch(Exception ee){}
+			finish();
+		return true;
+		}
+		return super.onKeyDown(keyCode, event);
+		} 
+};

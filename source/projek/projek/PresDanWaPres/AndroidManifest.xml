@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.presdanwapres"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.presdanwapres.Splash"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.presdanwapres.MainActivity"
+            android:label="Menu Utama"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.example.presdanwapres.Pres_dan_Wapres"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.example.presdanwapres.Periode1_11"
+            android:label="periode 1 sampai 11"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.example.presdanwapres.About"
+            android:label="Tentang"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.example.presdanwapres.Listperiode1"
+            android:label="List Periode 1"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.example.presdanwapres.Listperiode2_8"
+            android:label="List Periode 2 sampai 8"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.example.presdanwapres.Listperiode9"
+            android:label="List Periode 9"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.example.presdanwapres.Listperiode10_11"
+            android:label="List Periode 10 sampai 11"
+            android:screenOrientation="portrait">
+        </activity>
+       <activity
+            android:name="com.example.presdanwapres.Isi_Data"
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+</manifest>
