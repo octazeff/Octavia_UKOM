@@ -33,3 +33,10 @@ Pengguna Aplikasi
 Kegiatan Aplikasi
 -----------------
 - Pengguna Umum/Siswa Melihat informasi daftar biografi *"Penjelasan presdien dan wakil presiden"*, *"Biografi presiden dan wakil dari periode 1-11"*, *"Profil tentang Aplikasi"*
+
+Kredit 
+-----------------
+Nama		: 	Octavia
+Email		: 	oktaviazaffer@gmail.com
+Github		:	octazeff
+Absen		:	21
